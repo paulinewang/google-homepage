@@ -1,0 +1,1 @@
+This project will be a demonstration of my skills using basic HTML/CSS. It is a part of The Odin Project's curriculum.
